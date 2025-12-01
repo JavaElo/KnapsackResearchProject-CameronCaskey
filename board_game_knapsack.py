@@ -1,4 +1,3 @@
-# cd into the directory that holds the python file, type python board_game_knapsack.py and hit enter to execute
 import itertools
 import random
 import time
@@ -244,4 +243,5 @@ if __name__ == "__main__":
         knapsack_experiment_results.csv
     """
     run_experiments()
+
 
