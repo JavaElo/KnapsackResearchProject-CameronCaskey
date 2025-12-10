@@ -7,8 +7,8 @@ Top-Down Dynamic Programming, and Greedy by value-to-cost ratio)
 multiple times, and automatically writes the output under:
 
     knapsack_experiment_results.csv
-
-Cameron Caskey
-Cade Reed
-Vraj Patel
+By:
+Cameron Caskey,
+Cade Reed,
+Vraj Patel,
 Jenil Goyani
